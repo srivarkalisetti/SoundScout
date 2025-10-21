@@ -1,0 +1,2 @@
+# SoundScout
+Shazam for SoundCloud
